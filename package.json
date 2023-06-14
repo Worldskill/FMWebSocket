@@ -4,7 +4,7 @@
   "description": "FM Web Socket Server",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index"
   },
   "repository": {
     "type": "git",
